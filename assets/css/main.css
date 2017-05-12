@@ -314,7 +314,7 @@
 		margin-left: 8.33333%;
 	}
 
-	@media screen and (max-width: 1680px) {
+	@media screen and (max-width: 480px) {
 
 		.row > * {
 			padding: 0 0 0 1.5em;
@@ -529,7 +529,7 @@
 
 	}
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 480px) {
 
 		.row > * {
 			padding: 0 0 0 1.5em;
@@ -744,7 +744,7 @@
 
 	}
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 380px) {
 
 		.row > * {
 			padding: 0 0 0 1.5em;
