@@ -3597,7 +3597,7 @@
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 5em 10em 3em 10em ;
 			border-top: solid 1px #dddddd;
 		}
 
@@ -3624,11 +3624,11 @@
 		@media screen and (max-width: 1280px) {
 
 			#main > .main {
-				padding: 4em 4em 2em 4em ;
+				padding: 4em 10em 2em 10em ;
 			}
 
 				#main > .main > .image.main:first-child {
-					margin: -4em 0 4em -4em;
+					margin: -4em 10 4em 10em;
 					width: calc(100% + 8em);
 				}
 
@@ -3637,7 +3637,7 @@
 		@media screen and (max-width: 980px) {
 
 			#main > .main {
-				padding: 4em 3em 2em 3em ;
+				padding: 4em 10em 2em 10em ;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3650,7 +3650,7 @@
 		@media screen and (max-width: 736px) {
 
 			#main > .main {
-				padding: 3em 2em 1em 2em ;
+				padding: 3em 10em 1em 10em ;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3663,7 +3663,7 @@
 		@media screen and (max-width: 480px) {
 
 			#main > .main {
-				padding: 3em 1.5em 1em 1.5em ;
+				padding: 3em 10em 1em 10em ;
 			}
 
 				#main > .main > .image.main:first-child {
@@ -3680,7 +3680,7 @@
 			}
 
 				#main > .main {
-					padding: 2.5em 1em 0.5em 1em ;
+					padding: 2.5em 10em 0.5em 10em ;
 				}
 
 					#main > .main > .image.main:first-child {
